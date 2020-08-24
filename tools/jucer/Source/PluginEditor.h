@@ -22,7 +22,7 @@
 #include "JuceHeader.h"
 #include "PluginProcessor.h"
 
-class PluginView;
+class PluginView; 
 
 class RoboverbAudioProcessorEditor  : public AudioProcessorEditor,
                                       private Timer
